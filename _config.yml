@@ -14,12 +14,12 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/Stockholm
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: hackkan                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/90848128?s=400&u=82cd08fdf09d5c8a120880c56a1b3c7e8df2bd76&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
